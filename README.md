@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-Using-Reinforcement-Learning-Based-Dynamic-Fusion-of-LSTM-Predictions
+Developed a Dynamic RL-GOWLA framework combining LSTM networks, Weighted Logarithmic Averaging, and a Reinforcement Learning agent that adaptively adjusts fusion weights based on performance feedback. Achieved 96.58% F1-score on the WISDM dataset. Built a Django web app for real-time activity prediction and reporting.
